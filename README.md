@@ -21,28 +21,30 @@ Here are some ideas to get you started:
 
 ## About Me
 
-This is a brief description of myself and my background.
+I am a passionate developer with expertise in JavaScript, React, and React Native. I love building web and mobile applications that provide great user experiences.
 
 ## 🔭 I’m currently working on
 
-- Project 1
-- Project 2
-- Project 3
+- Developing a React Native app for a client
+- Exploring advanced JavaScript concepts and best practices
+- Contributing to open source projects
 
 ## 🌱 I’m currently learning
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Advanced React patterns and techniques
+- Serverless architecture using AWS Lambda
+- TypeScript for building scalable applications
 
 ## 👯 I’m looking to collaborate on
 
-- Open source projects
-- Interesting ideas
+- Open source projects related to React and React Native
+- Innovative projects that push the boundaries of web and mobile development
 
 ## 💬 Ask me about
 
-- Any question or topic you'd like to discuss
+- JavaScript development
+- Building responsive and performant web applications
+- Best practices in React and React Native
 
 ## 📫 How to reach me
 
