@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src={https://my-portofolio-jet.vercel.app/} alt="3D Effect" width="500" height="300" />
-</div>
-
 ## About Me
 
 I am a passionate developer with expertise in JavaScript, React, and React Native. I love building web and mobile applications that provide great user experiences.
@@ -48,12 +44,4 @@ I am a passionate developer with expertise in JavaScript, React, and React Nativ
 
 ## 📫 How to reach me
 
-You can reach me via email at [youremail@example.com](mailto:muhammadbilal2702164@gmail.com).
-
-## ⚡ Fun fact
-
-Here's a fun fact about me!
-
-<div align="center">
-  <img src="https://my-portofolio-jet.vercel.app/" alt="Another 3D Effect" width="500" height="300" />
-</div>
+You can reach me via email at [muhammadbilal2702164@gmail.com](mailto:muhammadbilal2702164@gmail.com).
