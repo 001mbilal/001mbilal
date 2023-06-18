@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/001mbilal/001mbilal/blob/main/assets/3d-effect.png" alt="3D Effect" width="500" height="300" />
+  <img src={https://my-portofolio-jet.vercel.app/} alt="3D Effect" width="500" height="300" />
 </div>
 
 ## About Me
@@ -48,12 +48,12 @@ I am a passionate developer with expertise in JavaScript, React, and React Nativ
 
 ## 📫 How to reach me
 
-You can reach me via email at [youremail@example.com](mailto:youremail@example.com).
+You can reach me via email at [youremail@example.com](mailto:muhammadbilal2702164@gmail.com).
 
 ## ⚡ Fun fact
 
 Here's a fun fact about me!
 
 <div align="center">
-  <img src="https://github.com/001mbilal/001mbilal/blob/main/assets/another-3d-effect.png" alt="Another 3D Effect" width="500" height="300" />
+  <img src="https://my-portofolio-jet.vercel.app/" alt="Another 3D Effect" width="500" height="300" />
 </div>
