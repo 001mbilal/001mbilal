@@ -1,3 +1,28 @@
+<!-- Dark Theme -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+
+<style>
+  body {
+    background-color: #1e1e1e;
+    color: #c9d1d9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .markdown-body {
+    box-sizing: border-box;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 45px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #58a6ff;
+  }
+</style>
+
+<!-- Snake Game -->
+<iframe src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" style="width: 100%; height: 175px; border: none;"></iframe>
+
 ### Hey there! 👋 I'm Muhammad Bilal.
 
 <!--
