@@ -34,6 +34,6 @@ I'm a passionate developer, specializing in JavaScript, React, and React Native.
 
 ## 📫 How to reach me
 
-You can drop me an email at [muhammadbilal2702164@gmail.com](mailto:muhammadbilal2702164@gmail.com).
+You can drop me an email at [muhammadbilal2702164@gmail.com](mailto:mbilalsheikh.dev@gmail.com).
 
 <!-- Consider adding any additional information or personal touch you'd like here! -->
