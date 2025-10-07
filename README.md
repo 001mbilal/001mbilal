@@ -2,10 +2,10 @@
 
 **Frontend Engineer | Full-Stack Developer | React & TypeScript Specialist**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Enterprise](https://img.shields.io/badge/Enterprise-Architecture-green)](https://github.com/001mbilal)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🏢 Professional Summary
 
