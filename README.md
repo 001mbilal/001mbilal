@@ -150,7 +150,7 @@ I'm always excited to discuss:
 **Ready to build something amazing together?**
 
 [![Email](https://img.shields.io/badge/Email-mbilalsheikh.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:mbilalsheikh.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-bilal-sheikh-b4619a1b6/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-green?logo=github&logoColor=white)](https://github.com/001mbilal)
 
 ---
