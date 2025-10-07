@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Muhammad Bilal
 
-**Senior Full-Stack Developer | Enterprise Architecture Specialist | AI Integration Expert**
+**Frontend Engineer | Full-Stack Developer | React & TypeScript Specialist**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
@@ -9,27 +9,27 @@
 
 ## 🏢 Professional Summary
 
-I'm a passionate full-stack developer with expertise in building **enterprise-grade applications** that scale. I specialize in crafting robust, type-safe solutions using modern technologies and architectural patterns that meet industry standards for security, performance, and maintainability.
+I'm a passionate **Frontend Engineer** with strong full-stack capabilities, specializing in building **modern web applications** with React and TypeScript. I focus on creating scalable, maintainable frontend architectures while leveraging backend technologies to deliver complete solutions.
 
 ### 🎯 **Core Expertise**
-- **Enterprise Architecture**: N-Tier layered architecture, Domain-Driven Design (DDD)
-- **Full-Stack Development**: React + TypeScript frontends with Node.js/Express backends
-- **AI Integration**: OpenAI API integration, conversational AI systems
-- **Database Design**: Prisma ORM, PostgreSQL, data modeling
-- **Security**: JWT authentication, role-based access control (RBAC), input validation
-- **Real-time Systems**: WebSocket implementation, live data synchronization
+- **Frontend Development**: React, TypeScript, modern JavaScript (ES6+)
+- **UI/UX Implementation**: Tailwind CSS, ShadCN/UI, responsive design
+- **State Management**: Zustand, TanStack Query, Context API
+- **Full-Stack Integration**: Node.js/Express backends, REST APIs
+- **Modern Tooling**: Vite, Webpack, ESLint, Prettier, Git workflows
+- **Testing**: Vitest, Testing Library, component testing strategies
 
-## 🚀 Featured Project: Enterprise React Foundation
+## 🚀 Featured Project: Modern React Application
 
-> **Enterprise-grade React + TypeScript foundation with AI integration**
+> **Full-stack React + TypeScript application with modern architecture patterns**
 
-### 🏗️ **Architecture Highlights**
-- **Layered N-Tier Architecture** with clear separation of concerns
-- **Domain-Driven Design** with feature-first organization
+### 🏗️ **Technical Highlights**
+- **Component-Based Architecture** with reusable UI components
+- **Feature-First Organization** for maintainable code structure
 - **Type-Safe Development** with strict TypeScript configuration
-- **Enterprise Security** with authentication guards and RBAC
-- **AI-Powered Features** with OpenAI integration
-- **Real-time Communication** via WebSocket implementation
+- **Modern Authentication** with JWT and protected routes
+- **AI Integration** with OpenAI API for chat functionality
+- **Responsive Design** with Tailwind CSS and mobile-first approach
 
 ### 🛠️ **Technology Stack**
 ```typescript
@@ -51,18 +51,18 @@ AI:       OpenAI API + Conversational AI + Smart Responses
 
 ## 🔭 Current Focus
 
-- **Enterprise AI Solutions**: Building scalable AI-integrated applications
-- **Advanced TypeScript Patterns**: Implementing type-safe architectures
-- **Performance Optimization**: Micro-frontends and advanced caching strategies
-- **Cloud Architecture**: Serverless deployment with AWS/Azure
-- **Open Source Contributions**: Sharing enterprise patterns with the community
+- **Modern React Development**: Building scalable component libraries and design systems
+- **TypeScript Mastery**: Implementing type-safe patterns and advanced TypeScript features
+- **Frontend Performance**: Optimizing bundle sizes, lazy loading, and user experience
+- **Full-Stack Integration**: Seamless API integration and state management
+- **AI-Enhanced UIs**: Integrating AI capabilities into user interfaces
 
 ## 🌱 Continuous Learning
 
-- **Advanced React Patterns**: Compound components, render props, custom hooks
-- **Microservices Architecture**: Event-driven systems, API gateways
-- **DevOps & Infrastructure**: Kubernetes, Docker, CI/CD pipelines
-- **AI/ML Integration**: Vector databases, RAG systems, prompt engineering
+- **Advanced React Patterns**: Server components, concurrent features, custom hooks
+- **Modern CSS**: CSS-in-JS, CSS modules, advanced Tailwind patterns
+- **Build Tools & DevOps**: Vite optimization, Docker containerization, CI/CD
+- **Backend Technologies**: Database design, API architecture, authentication systems
 
 ## 💼 What I Bring to Your Team
 
